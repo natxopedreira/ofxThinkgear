@@ -6,3 +6,9 @@ This is a little addon I made to play with NeuroSky's headset and openFrameworks
 I do not intend to maintain it, feel free to clone and fix!
 
 BSD Licence
+
+
+cambios tomando como base 
+https://github.com/trentbrooks/ofxThinkgear
+
+version para windows usando TG_COMMS_DRIVER en windows
